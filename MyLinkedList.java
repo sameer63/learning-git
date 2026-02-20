@@ -44,7 +44,7 @@ public class MyLinkedList<T> {
         }
         else if(temp.next.data==key){
             temp.next=temp.next.next;
-            temp.next=null;
+
         }
    }
 
