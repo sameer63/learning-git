@@ -3,4 +3,7 @@
            <groupId><groupId/>
            <aritfactId><artifactId/>
     </dependency>
+    <dependency>
+        <version></version>
+    </dependency>
 </dependencies>
