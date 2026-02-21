@@ -2,6 +2,7 @@
     <dependency>
            <groupId><groupId/>
            <aritfactId><artifactId/>
+           <version><version/>
     </dependency>
     <dependency>
         <version></version>
