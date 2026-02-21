@@ -6,5 +6,6 @@
     </dependency>
     <dependency>
         <version></version>
+        <scope>1.9</scope>
     </dependency>
 </dependencies>
